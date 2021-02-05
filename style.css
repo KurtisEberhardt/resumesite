@@ -16,7 +16,9 @@
     padding-bottom: 7em;
 }
 .card-position{
-    position: absolute
+    position: absolute;
+    left: 70em;
+    top: 40em;
 }
 .text-position{
     margin-left: 85em;
