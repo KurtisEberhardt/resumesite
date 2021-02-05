@@ -1,0 +1,28 @@
+.maintxt{
+    background-image: url('/kayle.jpg');
+    background-size: cover;
+}
+
+.image{
+    opacity: 0.7;
+}
+.no-padding{
+    padding-left: 0;
+    padding-right: 0;
+}
+.form-padding{
+    padding-top: 6em;
+    padding-left: 4em;
+    padding-bottom: 7em;
+}
+.card-position{
+    position: absolute
+}
+.text-position{
+    margin-left: 85em;
+    margin-top: -4em;
+}
+body { min-height: 100vh; display: flex; flex-direction: column; }
+header{ } 
+main{flex-grow: 1;} 
+footer{ }
